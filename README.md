@@ -1,4 +1,7 @@
 # PAC3_Manovich_Reloaded
+Autor: Joaquim Sans López
+
+Data: 16/05/2022
 ## Què és la hibridació?
 La hibridació consisteix en la fusió de dos o més medis que resulten en l’elaboració d’un nou mitjà, creant una nova experiència. La combinació de medis és molt habitual, sent difícil de distingir els diferents medis integrats en una tecnologia híbrida quan és percebuda com un sol producte.
 
