@@ -4,3 +4,4 @@ EL “Cloud Gaming”, videojoc al núvol, permet jugar a videojocs en streaming
 Alguns serveis de
 Es tracta d’un servei similar a Spotify o Netflix, que proporcionen contingut en streaming a un preu mensual assequible
 
+![alt text](https://github.com/quimuoc/PAC3_Manovich_Reloaded/blob/main/1618644508_965956_1618644723_noticia_normal.jpg)
