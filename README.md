@@ -43,4 +43,9 @@ Veient l’èxit de la saga Guitar Hero, més tard afegirien nous instruments co
 ![alt text](https://github.com/quimuoc/PAC3_Manovich_Reloaded/blob/main/Gh3_2D00_337_2D00_610.jpg)
 
 # Bibliografia
-uest cas, l’espectador està interactuant amb la imatge prement butons, la informació dels quals és enviada a un servidor remot on es processa, renderitzant el resultat de les accions i enviant els visuals a temps real a la pantalla del jugador. Aquest procés és molt ràpid i eficaç, encara que s’està enviant i rebent informació des de grans distàncies.
+- Manovich, Lev. (2013). El Software toma el mando. Barcelona: Editorial UOC.
+- Cloud Gaming: Why It Matters And The Games It Will Create, Matthew Ball & Jacob Navok<br>https://www.matthewball.vc/all/cloudmiles
+- The Future of Cloud Gaming<br>https://www2.cs.sfu.ca/~jcliu/Papers/CloudGaming-ProcIEEE-2016.pdf
+- The Beats to Beat: A History of Guitar Hero<br>https://historycooperative.org/the-beats-to-beat-a-history-of-guitar-hero/
+- The Evolution Of Guitar Hero Controllers<br>https://mixdownmag.com.au/features/the-evolution-of-guitar-hero-controllers/
+
